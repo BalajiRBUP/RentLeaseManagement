@@ -1,0 +1,5 @@
+﻿"Agreement ID","Agreement URN","Agreement Name","Property ID","Start Date","End Date","Total Rent","GST %","TDS %","Payment Frequency","Escalation %","Escalation Period","Discount Rate %","Security Deposit","Agreement Status","Created By","Created On","Modified By","Modified On","Amendment ID","Amendment Type","Amendment Effective Date","Amendment Old Value","Amendment New Value","Amendment Status","Amendment Requested By","Amendment Approved By","Amendment Approved On","Amendment Created On"
+"","","Ag101","","2026-07-01","2028-01-14","12000.00","","","","","","","","","","","","","","","","","","","","","",""
+"","","new101","","2026-07-01","2029-01-31","28764723.00","","","","","","","","","","","","","","","","","","","","","",""
+"","","ag101","","2026-07-01","2026-07-01","200000.00","","","","","","","","","","","","","","","","","","","","","",""
+"","","Ag101","","2026-07-10","2026-07-11","20000.00","","","","","","","","","","","","","","","","","","","","","",""
